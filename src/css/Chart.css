@@ -1,0 +1,13 @@
+.chart-title {
+  font-family: "Poppins", sans-serif;
+}
+.show-dotted-line {
+  border: 2px dashed #c8c8c8;
+  padding: 4px;
+}
+
+.recharts-wrapper {
+  width: fit-content !important;
+  border: 2px solid lightgrey;
+  border-radius: 10px;
+}

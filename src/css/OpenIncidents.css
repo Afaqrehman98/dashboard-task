@@ -1,0 +1,109 @@
+.open-incidents {
+  font-family: "Poppins", sans-serif;
+}
+.card {
+  border: 1px solid #c6c6c6;
+  border-radius: 10px;
+  margin-top: 10px;
+  font-family: "Poppins", sans-serif;
+}
+
+.card .card-title {
+  margin-left: 10px;
+  margin-bottom: 5px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  color: #213c91;
+  display: inline-block;
+}
+
+.card .card-status {
+  padding: 4px;
+  border: 1px solid #4d88e7;
+  border-radius: 10px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  color: #4d88e7;
+  font-size: 12px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-top: 5px;
+  width: fit-content;
+}
+
+.card .button-update {
+  align-self: flex-end;
+  margin-left: 1500px;
+}
+
+.card .card-desc {
+  font-weight: 400;
+  font-size: 12px;
+  font-family: "Poppins", sans-serif;
+  margin-left: 10px;
+  margin-top: -10px;
+}
+
+.card .blue-text {
+  margin-left: 2px;
+  font-weight: 400;
+  color: black;
+  font-size: 12px;
+  align-items: center;
+  margin-bottom: 10px;
+  font-family: "Poppins", sans-serif;
+}
+
+.card .blue-text svg {
+  margin-right: 5px;
+}
+
+.card .blue-text span {
+  font-weight: 400;
+  color: black;
+  font-size: 12px;
+  align-items: center;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+.blue-text-container {
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+}
+
+.blue-text-item {
+  margin-left: 5px;
+  margin-bottom: 5px;
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  margin-right: 10px;
+}
+
+.blue-text-item span {
+  margin-left: 5px;
+}
+.show-dotted-line {
+  border: 2px dashed #c8c8c8;
+  padding: 4px;
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+
+.card {
+  padding: 10px;
+}
+
+.btn-update {
+  padding: 1px 20px;
+  border-radius: 5px;
+  margin-left: auto;
+}
+.css-bhp9pd-MuiPaper-root-MuiCard-root {
+  box-shadow: none !important;
+}

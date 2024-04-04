@@ -1,0 +1,30 @@
+.alert {
+  padding: 10px 50px;
+  margin: 4px 30px 4px 0px;
+  border: none;
+  border-radius: 40px;
+  box-shadow: 0 0 0 1px #d5d5d5;
+}
+.title {
+  font-family: "Poppins", sans-serif;
+}
+.alert .alertNumber {
+  color: #065297;
+}
+.alertBox {
+  display: flex;
+}
+.show-dotted-line {
+  border: 2px dashed #c8c8c8;
+  padding: 4px;
+}
+
+.source-row {
+  text-decoration: underline;
+    font-weight: 600;
+}
+
+.alert-row {
+  text-decoration: underline;
+    font-weight: 600;
+}

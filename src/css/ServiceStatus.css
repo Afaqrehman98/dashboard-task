@@ -1,0 +1,47 @@
+.uptime-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.uptime-list li {
+  display: flex;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+}
+
+.service-title {
+  font-family: "Poppins", sans-serif;
+}
+
+.blue-text {
+  color: blue;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  margin-left: 8px;
+}
+
+.Major-outage path {
+  fill: #d32f2f;
+}
+
+.Operational path {
+  fill: #388e3c;
+}
+
+.Degraded path {
+  fill: #fbc02d;
+}
+
+.Under-maintenance path {
+  fill: #616161;
+}
+
+.Partial-outage path {
+  fill: #f57c00;
+}
+
+.show-dotted-line {
+  border: 2px dashed #c8c8c8;
+  padding: 4px;
+}
